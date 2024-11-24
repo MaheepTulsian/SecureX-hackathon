@@ -1,2 +1,0 @@
-# Ashwini
-A Helthcare ChatBot
