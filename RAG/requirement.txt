@@ -5,4 +5,3 @@ faiss-cpu
 python-dotenv
 streamlit
 pypdf
-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
