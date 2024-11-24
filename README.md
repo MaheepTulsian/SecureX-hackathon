@@ -30,8 +30,6 @@ SafeNet.io is an interactive cybersecurity chatbot designed to educate and empow
 - **Backend**: FastAPI
 ---
 
-## Installation
-
 ### Prerequisites
 - Python 3.8+
 - Node.js 14+
